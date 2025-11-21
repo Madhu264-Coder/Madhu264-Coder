@@ -15,7 +15,7 @@
 - **Fraud Detection (ML)** — Classification model detecting fraudulent transactions.  
 - **Conversational Image Chatbot** — Multimodal chatbot project.  
 - **Stock Optimization for Perishables** — Inventory optimization model.  
-- **wp-hello-rtcamp** — Small WordPress plugin (shortcode + settings).
+- **wp-hello** — Small WordPress plugin (shortcode + settings).
 
 ## About me
 Fourth-year CSE (AI/ML) student at SOA ITER College. I build ML models and am learning WordPress/PHP to build production web apps. I love clean code and practical projects.
